@@ -1,1 +1,1 @@
-
+Eu chamo Jonathan Lima, sou natural de Fortaleza/CE, tenho 32 anos. Amo tecnologia, o meu contato com a programação foi algo que me transformou e que considero muito importante em minha vida. Sou aluno de Analise e Desenvolvimento de Sistemas, e lá tive contato com outras linguagens de programação (além do python que é a minha primeira linguagem). É um prazer me apresentar a todos vocês, espero que possamos aprender muito nessa jornada!
